@@ -1,5 +1,5 @@
-# ML-Projects
-This repository contains projects related to ML and Deep Learning.
+# ml-course-projects
+This repository contains projects related to ML built in different courses such as [Deep Learning](https://www.udacity.com/course/deep-learning-nanodegree--nd101) and [IBM's Python Data Science](https://www.coursera.org/learn/python-project-for-data-science)
 
 ## Bike Sharing Predictions
 Implemented a neural network from scratch in NumPy to predict bike rentals. Topics covered: neural networks, backpropagation, activation functions...
